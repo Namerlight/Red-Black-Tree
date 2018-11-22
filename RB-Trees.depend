@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1521441634 source:e:\code\c++\lab13-19-03-18\main.cpp
+	<iostream>
+	"binarysearchtree.h"
+	"binarysearchtree.cpp"
+
+1519020875 source:e:\code\c++\lab13-19-03-18\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1519020863 e:\code\c++\lab13-19-03-18\quetype.h
+
+1521441004 source:e:\code\c++\lab13-19-03-18\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1523368139 e:\code\c++\lab13-19-03-18\binarysearchtree.h
+	"quetype.h"
+
+1519020875 e:\code\c++\lab13-19-03-18\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1521441004 e:\code\c++\lab13-19-03-18\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1523513827 source:e:\code\c++\rb-tree\main.cpp
+	<iostream>
+	"rbtree.h"
+	"rbtree.cpp"
+
+1519020875 source:e:\code\c++\rb-tree\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1519020863 e:\code\c++\rb-tree\quetype.h
+
+1523513762 e:\code\c++\rb-tree\rbtree.h
+	"quetype.h"
+
+1523542884 e:\code\c++\rb-tree\rbtree.cpp
+	"rbtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1519020875 e:\code\c++\rb-tree\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1523513788 source:e:\code\c++\rb-tree\rbtree.cpp
+	"rbtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1523513827 source:e:\cse\rb-tree\main.cpp
+	<iostream>
+	"rbtree.h"
+	"rbtree.cpp"
+
+1523513762 e:\cse\rb-tree\rbtree.h
+	"quetype.h"
+
+1519020863 e:\cse\rb-tree\quetype.h
+
+1523542884 e:\cse\rb-tree\rbtree.cpp
+	"rbtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1519020875 e:\cse\rb-tree\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1519020875 source:e:\cse\rb-tree\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1523542884 source:e:\cse\rb-tree\rbtree.cpp
+	"rbtree.h"
+	"quetype.cpp"
+	<iostream>
+
