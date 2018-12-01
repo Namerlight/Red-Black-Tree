@@ -42,4 +42,4 @@ private:
     QueType<ItemType> inQue;
     QueType<ItemType> postQue;
 };
-#endif // BINARYSEARCH_H_INCLUDED
+#endif // REDBLACK_H_INCLUDED
